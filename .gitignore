@@ -1,0 +1,6 @@
+__pycache__
+
+*.pt
+*.ipynb
+exp_data
+SCHOLAT_LinkPrediction
