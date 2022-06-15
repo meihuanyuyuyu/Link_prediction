@@ -4,3 +4,5 @@ __pycache__
 *.ipynb
 exp_data
 SCHOLAT_LinkPrediction
+test2.py
+*.md
